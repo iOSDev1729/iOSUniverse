@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @iOSUniverse
+- 👋 Hi, I’m @iOSDev
 - 👀 I’m interested in iOS app development and Swift
 - 🌱 I’m currently learning swift and UIKit
 - 💞️ I’m looking to collaborate on iOS open source projects
